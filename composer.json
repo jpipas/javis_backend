@@ -1,0 +1,11 @@
+{
+    "require": {
+        "silex/silex": "dev-master",
+        "symfony/form": "2.1.*",
+        "monolog/monolog": ">=1.0.0",
+        "symfony/twig-bridge": "2.1.*",
+        "symfony/validator": "2.1.*",
+        "twig/twig": ">=1.8,<2.0-dev",
+        "doctrine/dbal": "2.3.*"
+    }
+}
