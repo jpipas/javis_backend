@@ -26,7 +26,7 @@ $app = new Silex\Application();
 
 require __DIR__ . '/config.php';
 
-//$app->register(new HttpCacheServiceProvider());
+$app->register(new HttpCacheServiceProvider());
 
 $app->register(new SessionServiceProvider());
 //$app->register(new ValidatorServiceProvider());

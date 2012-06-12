@@ -1,0 +1,4 @@
+[2012-06-12 04:40:38] app.ERROR: No route found for "GET /hello/jeff" [] []
+[2012-06-12 04:40:38] app.ERROR: No route found for "GET /favicon.ico" [] []
+[2012-06-12 04:40:42] app.ERROR: No route found for "GET /favicon.ico" [] []
+[2012-06-12 04:42:54] app.ERROR: No route found for "GET /favicon.ico" [] []

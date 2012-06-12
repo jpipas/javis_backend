@@ -4,7 +4,7 @@ $client = new ControllerCollection();
 
 
 $client->get('/{name}', function($name) use($client) { 
-    return 'Client Hello '.$client->escape($name); 
+    return "Client Hello: $name"; 
 });
 
 
